@@ -1,6 +1,5 @@
-# Track & Feeled
 
-## Privacy Policy
+# Privacy Policy
 
 The Track & Feeled App collects no personal information.
 
